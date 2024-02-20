@@ -11,4 +11,4 @@
 
 ### Pac-Man
 
-![](https://github.com/matteodevenuto/AI_Course/blob/main/Part%202%20-%20Deep%20Convolution%20Q-Learning/pacman.gif)
+![](https://github.com/matteodevenuto/AI_Course/blob/main/Part%202%20-%20Deep%20Convolutional%20Q-Learning/pacman.gif)
